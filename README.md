@@ -35,7 +35,9 @@ Please ensure that you don't have already 2 Studio Domains in the region you are
 ## Contributors
 
 Akhilesh Dube, Sr. Analytics SA
+
 Ren Guo, Mgr. GCR Analytics SSA
+
 Sherry Ding, Sr. AI/ML Specialist SA
 
 
