@@ -32,6 +32,13 @@ Please ensure that you don't have already 2 Studio Domains in the region you are
 - **[6-read-results-in-redshift.ipynb](6-read-results-in-redshift.ipynb)**: Query the inference result and join user profiles in Redshift.
 
 
+## Contributors
+
+Akhilesh Dube, Sr. Analytics SA
+Ren Guo, Mgr. GCR Analytics SSA
+Sherry Ding, Sr. AI/ML Specialist SA
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
