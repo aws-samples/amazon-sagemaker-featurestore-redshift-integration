@@ -26,7 +26,7 @@ Please ensure that you don't have already 2 Studio Domains in the region you are
 
 - **[1-uploadJar.ipynb](1-uploadJar.ipynb)**, **[2-loadredshiftdata.ipynb](2-loadredshiftdata.ipynb)**, **[3-createFeatureStore.ipynb](3-createFeatureStore.ipynb)**: Environment Setup.
 - **[4a-glue-int-session.ipynb](4a-glue-int-session.ipynb)**: Glue interactive session on SageMaker Studio (in dev.) and Glue job (in prod.) with SparkSQL.
-- **[4b-processing-rs-to-fs.ipynb](4b-processing-rs-to-fs.ipynb)**: SageMaker Processing Job with SparkSQL.
+- **[4b-processing-rs-to-fs.ipynb](4b-processing-rs-to-fs.ipynb)**: SageMaker Processing Job with SparkSQL. Another alternative way is to use [SageMaker Feature Store Feature Processing](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-feature-processing.html).
 - **[4c-data-wrangler-transformations.md](4c-data-wrangler-transformations.md)** , **[4c-1-redshift-datawrnagler-place.png](4c-1-redshift-datawrnagler-place.png)**, **[4c-2-redshift-datawrangler-rating.png](4c-2-redshift-datawrangler-rating.png)**, **[4c-3-redshift-datawrangler-user.png](4c-3-redshift-datawrangler-user.png)**: SageMaker Data Wrangler in a No/Low code way.
 - **[5-classification-using-feature-groups.ipynb](5-classification-using-feature-groups.ipynb)**: Using processed features to train a model and do inference.
 - **[6-read-results-in-redshift.ipynb](6-read-results-in-redshift.ipynb)**: Query the inference result and join user profiles in Redshift.
